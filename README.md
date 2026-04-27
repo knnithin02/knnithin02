@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nithin K N</h1>
+<h3 align="center">A passionate Data Enthusiast from India 🇮🇳</h3>
 
-<!--
-**knnithin02/knnithin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning ** Data Analytics & Gen AI**
+- 💻 I’m working on **Python,SQL,Power BI,Full-Stack & Gen AI Projects**
+- 📄 Check my resume here: [[NITHIN_RESUMEE.pdf](https://github.com/user-attachments/files/27125376/NITHIN_RESUMEE.pdf)](#)
+- 📫 Reach me at: knnithin02@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Languages and Tools:
+<p>
+<img src="https://skillicons.dev/icons?i=msexcel,sql,python,powerbi,html,css,gen ai,github,mongodb" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=knnithin02&show_icons=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=knnithin02)
+
+---
+
