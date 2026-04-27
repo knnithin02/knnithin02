@@ -10,7 +10,7 @@
 
 ### 🚀 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sql,excel,python,powerbi,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,msexcel,python,powerbi,html,css,git,github,vscode" />
 </p>
 
 ---
