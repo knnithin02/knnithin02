@@ -15,10 +15,5 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=knnithin02&show_icons=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=knnithin02)
-
----
 
