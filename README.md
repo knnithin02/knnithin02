@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning and exploring Data Analytics & Gen AI
 - 💻 I’m working on **Python,SQL,Power BI,Full-Stack & Gen AI Projects**
-- - 📄 Check my resume here: [Nithin K N - Resume](./Nithin_KN_Resume.pdf)](#)
+- 📄 Check my resume here: [Nithin K N - Resume](./Nithin_KN_Resumeee.pdf)
 - 📫 Reach me at: knnithin02@gmail.com
 
 ---
